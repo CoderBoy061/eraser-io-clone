@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.ce-header {
+  font-weight: bold;
+}
+.ce-header--h1 {
+  font-size: 3rem;
+}
+
+.ce-header--h2 {
+  font-size: 2.5rem;
+}
+
+.ce-header--h3 {
+  font-size: 2rem;
+}
+
+.ce-header--h4 {
+  font-size: 1.5rem;
+}
+
+.ce-header--h5 {
+  font-size: 1.25rem;
+}
+
+.ce-header--h6 {
+  font-size: 1rem;
+}
